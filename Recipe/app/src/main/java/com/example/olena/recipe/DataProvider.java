@@ -1,5 +1,7 @@
-package work.nbcc.recipes;
+package com.example.olena.recipe;
 
+//This assignment was done by Olena
+//Date: 2019-03-21
 
 import java.util.LinkedList;
 

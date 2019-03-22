@@ -1,0 +1,9 @@
+<!--This assignment was done by Olena-->
+<!--Date: 2019-03-21-->
+
+<resources>
+    <string name="app_name">Recipe</string>
+    <string name="action_settings">Settings</string>
+    <string name="ingridients">Ingridients:</string>
+    <string name="directions">Directions</string>
+</resources>

@@ -1,6 +1,12 @@
-package work.nbcc.recipes;
+package com.example.olena.recipe;
 
-public class Recipe {
+
+//This assignment was done by Olena
+//Date: 2019-03-21
+
+import java.io.Serializable;
+
+public class Recipe implements Serializable {
     public Recipe(String name, String description, String image, String ingredients, String directions) {
         this.name = name;
         this.description = description;
